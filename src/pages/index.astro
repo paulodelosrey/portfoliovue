@@ -1,0 +1,18 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+import Hero from '../components/Hero.vue';
+import Carrousel from '../components/Carrousel.vue';
+import Phone from '../components/Phone.vue';
+import Anuncio from '../components/Anuncio.vue';
+---
+<SiteLayout>
+	<Hero />
+	<section id="projects">
+		<h1 class="mb-10 mt-10 text-5xl font-bold text-center">Proyectos</h1>
+		<Anuncio class="mb-10 mt-10 w-3/4 mx-auto"/>
+		<Carrousel />
+	</section>
+	<section class="flex justify-center items-center mt-10 mb-10">
+		<Phone />
+	</section>
+</SiteLayout>
