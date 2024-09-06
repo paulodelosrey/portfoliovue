@@ -16,7 +16,7 @@
         <div class="w-10 rounded-full">
           <img
             alt="Tailwind CSS Navbar component"
-            src="/src/assets/me.png"
+            src="/public/me.png"
           />
         </div>
       </div>

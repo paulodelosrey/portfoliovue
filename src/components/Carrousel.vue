@@ -6,12 +6,12 @@
                   <a href="https://github.com/paulodelosrey/forohub" target="_blank" rel="noopener noreferrer"><h2>API Rest Java & Sprigboot: Forohub</h2></a>
               </div>
                 <img
-                    src="/src/assets/forohub.jpg"
+                    src="/public/forohub.jpg"
                     alt="Forohub" />
             </div>
             <div class="carousel-item">
                 <img
-                    src="/src/assets/letspracticeenglish.jpg"
+                    src="/public/letspracticeenglish.jpg"
                     alt="Let's practice english" />
                 <div class="text-overlay">
                     <a href="https://letspracticespeaking.netlify.app/" target="_blank" rel="noopener noreferrer"><h2>Let's practice Speaking: Astro & React</h2></a>
@@ -19,7 +19,7 @@
             </div>
             <div class="carousel-item">
                 <img
-                    src="/src/assets/literalura.jpg"
+                    src="/public/literalura.jpg"
                     alt="Literalura" />
                 <div class="text-overlay">
                     <a href="https://github.com/paulodelosrey/literalura-oracle" target="_blank" rel="noopener noreferrer"><h2>Literalura: Consumo de API con persitencia</h2></a>
@@ -27,7 +27,7 @@
             </div>
             <div class="carousel-item">
                 <img
-                    src="/src/assets/stickyresume.jpg"
+                    src="/public/stickyresume.jpg"
                     alt="Sticky Resume" />
                 <div class="text-overlay">
                     <a href="https://stickyresume.netlify.app/" target="_blank" rel="noopener noreferrer"><h2>Sticky Resume: Plantilla para tu portafolio</h2></a>
@@ -35,7 +35,7 @@
             </div>
             <div class="carousel-item">
                 <img
-                    src="/src/assets/convertidor.jpg"
+                    src="/public/convertidor.jpg"
                     alt="Convertidor de Moneda Java" />
                 <div class="text-overlay">
                     <a href="https://github.com/paulodelosrey/convertidor-de-moneda-java" target="_blank" rel="noopener noreferrer"><h2>Convertidor de Moneda Java</h2></a>
@@ -43,7 +43,7 @@
             </div>
             <div class="carousel-item">
                 <img
-                    src="/src/assets/textencoder.jpg"
+                    src="/public/textencoder.jpg"
                     alt="Text encoder" />
                 <div class="text-overlay">
                     <a href="https://textencoder.netlify.app/" target="_blank" rel="noopener noreferrer"><h2>Text encoder: Astro & Tailwind</h2></a>
@@ -128,6 +128,7 @@
     .carousel-container::-webkit-scrollbar-thumb:hover {
         background: #555;
     }
+
 </style>
 
 <script>
