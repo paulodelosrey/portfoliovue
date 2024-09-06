@@ -1,7 +1,7 @@
 <template>
 <div
   class="hero min-h-screen"
-  style="background-image: url(/public/coding.jpg);">
+  style="background-image: url(/coding.jpg);">
   <div class="hero-overlay bg-opacity-60"></div>
   <div class="hero-content text-neutral-content text-center">
     <div class="max-w-md">
